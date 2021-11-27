@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nothingt
-- 👀 Log my life
+# My Life
 
-<!---
-nothingt/nothingt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+当你一个人的时候，不要把生活搞成一团糟。
+
+2021-11-28 我需要把我的房间收拾干净，12月之前搞定，我还要每天锻炼10分钟。鼻子要在12-7号之前好掉。每天热敷眼睛。
+[] 2021-11-30 房间收拾干净
+[] 2021-12-07 鼻子好掉
